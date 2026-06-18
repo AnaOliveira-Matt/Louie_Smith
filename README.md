@@ -1,6 +1,6 @@
 #  Louie Portfolio
 
-<img src="imagem.png" alt="Imagem da pagina inicial">
+<img src="Louie.png" alt="Imagem da pagina inicial">
 
 
 >Site feito predominantemente com display:flex
